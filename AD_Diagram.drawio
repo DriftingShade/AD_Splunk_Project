@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="Page-1" id="2rqJT89GgaVDDj_2O1b9">
+    <mxGraphModel dx="2068" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wAPK2hC78kggJUBOEGrP-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#008a00;strokeColor=#005700;endArrow=none;startFill=0;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-2" target="wAPK2hC78kggJUBOEGrP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#008a00;strokeColor=#005700;endArrow=none;startFill=0;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-3" target="wAPK2hC78kggJUBOEGrP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6F0000;fillColor=light-dark(#A20025,#FF3333);shape=mxgraph.azure.computer;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="650" y="442.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-5" target="wAPK2hC78kggJUBOEGrP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-5" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-6" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-6" target="wAPK2hC78kggJUBOEGrP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-4" target="wAPK2hC78kggJUBOEGrP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-3" target="wAPK2hC78kggJUBOEGrP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-2" target="wAPK2hC78kggJUBOEGrP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAPK2hC78kggJUBOEGrP-1" target="wAPK2hC78kggJUBOEGrP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Domain: Glass Inc.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Network: 192.168.10.0/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Splunk Server: 192.168.10.10&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Active Directory: 192.168.10.7&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Attacker: 192.168.10.250&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-20" value="Internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-21" value="Splunk Server&lt;div&gt;IP: 192.168.10.10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="373" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-22" value="Active Directory&lt;div&gt;IP: 192.168.10.7&lt;/div&gt;&lt;div&gt;Splunk Universal Forwarder&lt;/div&gt;&lt;div&gt;Sysmon&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="600" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-23" value="Windows 10&lt;div&gt;IP: DHCP&lt;/div&gt;&lt;div&gt;Splunk Universal Forwarder&lt;/div&gt;&lt;div&gt;Sysmon&lt;/div&gt;&lt;div&gt;Atomic Red Team&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wAPK2hC78kggJUBOEGrP-24" value="Kali Linux&lt;div&gt;IP: 192.168.10.250&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
