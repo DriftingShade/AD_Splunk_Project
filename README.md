@@ -28,6 +28,10 @@ This project is intended to demonstrate detection engineering, threat hunting, a
 
 ## Project Setup
 
+### Network Diagram
+
+![Diagram](assets/AD_Diagram.png)
+
 ### Prerequisites
 
 - **Oracle VM VirtualBox** for virtualization.
